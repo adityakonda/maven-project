@@ -2,6 +2,8 @@
 
 Updated read me file. 
 
+updating the file for the second time. 
+
 Source code for James Lee's Jenkins course.
 
 Check out our Latest DevOps PDF book.
